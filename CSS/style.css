@@ -1,0 +1,14 @@
+#sectionImage {
+  background-image: url("../images/calendar.jpg");
+  height: 30rem;
+  background-size: cover;
+}
+
+.card-img {
+  height: 20rem;
+  object-fit: cover;
+}
+
+.transparent {
+  background-color: #00000080;
+}
